@@ -1,0 +1,24 @@
+topics:
+  - politics
+  - business
+  - technology
+  - science
+  - health
+  - sports
+  - entertainment
+  - world
+  - local
+
+entities:
+  people:
+    - Joe Biden
+    - Elon Musk
+    - Narendra Modi
+  organizations:
+    - United Nations
+    - Apple
+    - Google
+  places:
+    - United States
+    - India
+    - Bangladesh
