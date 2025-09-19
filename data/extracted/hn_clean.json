@@ -1,0 +1,92 @@
+[
+  {
+    "id": 45295898,
+    "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
+    "summary": "This tool is guaranteed to help with that! This is a tool that takes any link and makes it look malicious. It works on the idea of a redirect .\n                        Much like https://tinyurl.com/ for example.\n                        Where tinyurl makes an url shorter, this site makes it look malicious. Place any link in the below input, press the button and get back a fishy(phishy, heh...get, it?)\n                        looking link.\n                        The fishy link doesn't actually do anything, it will just redirect you to the original link you\n                        provided.",
+    "byline": "jordigh",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://phishyurl.com/",
+    "language": "en"
+  },
+  {
+    "id": 45253926,
+    "title": "The Ruliology of Lambdas",
+    "summary": " Click any diagram to get Wolfram Language code to reproduce it. It’s a story of pure, abstract computation. In fact, historically, one of the very first . But even though it’s something I for one have used in practice for nearly half a century, it’s not something that in all my years of exploring simple computational systems and ruliology I’ve ever specifically studied. And, yes, it involves some fiddly technical details. But it’ll turn out that lambdas—like so many systems I’ve explored—have a rich ruliology, made particularly significant by their connection to practical computing. In Wolfram Language it’s the Function function. Back when Alonzo Church first discussed it in the 1930s he called it λ (lambda). The idea is to have something that serves as a “ pure function ”—which can be applied to an argument to give a value. For example, in the Wolfram Language one might have: ",
+    "byline": "marvinborner",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/",
+    "language": "en"
+  },
+  {
+    "id": 45259471,
+    "title": "Rules for creating good-looking user interfaces, from a developer",
+    "summary": "Creating good-looking user interfaces has always been a struggle for me. If you’re in the same camp, this might help. I recently redesigned Lighthouse , and during that process built a system that helped me create much better designs than I ever did before. This system is about achieving the best possible design with the least amount of effort. There’s no need to know about the psychological impact of colors, which fonts are best for which purpose, golden ratios, etc. This is expert-level design knowledge that is just distracting if you’re not on that level. The key is to focus on the few important aspects, and not try to optimize every tiny detail. For a long time I could tell when a design was good and that my own designs were bad, but I could never specify why my designs were bad. Now I can summarize it in two words: alignment and consistency . Let me show you.",
+    "byline": "domysee",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://weberdominik.com/blog/rules-user-interfaces/",
+    "language": "en"
+  },
+  {
+    "id": 45248356,
+    "title": "Leatherman (vagabond)",
+    "summary": "The Leatherman ( c. 1839–1889) was a vagabond famous for his handmade leather suit of clothes who traveled through the northeastern United States on a regular circuit between the Connecticut River and the Hudson River from roughly 1857 to 1889. Of unknown origin, he was thought to be French-Canadian because of his fluency in the French language , his \"broken English\", and the French-language prayer book found on his person after his death. His identity remains unknown and controversial. He walked a repeating 365-mile (587 km) route year after year, which took him through certain towns in western Connecticut and eastern New York , returning to each town roughly every 34 days. [ 1 ] Living in rock shelters and \"leatherman caves\", as they are now locally known, [ 2 ] the Leatherman stopped at towns along his 365-mile (587 km) loop about every five weeks for food and supplies. [ 3 ] He was dubbed the \"Leatherman\" as his adornment of hat, scarf, clothes, and shoes were handmade from leather . An early article in the Burlington Free Press dated April 7, 1870, refers to him as the \"Leather-Clad Man\". It also states that he spoke rarely and when addressed would simply speak in monosyllables . According to contemporary rumors, he hailed from Picardy, France . [ 4 ] Fluent in French , he communicated mostly with grunts and gestures, rarely using his broken English. When asked about his background, he would abruptly end the conversation. [ 5 ] [ 6 ] Upon his death, a French prayer book was found among his possessions. [ 6 ] He declined meat on Fridays, giving rise to speculation that he was Roman Catholic . [ 7 ] It is unknown how he earned money. One store kept a record of an order: \"one loaf of bread, a can of sardines, one-pound of fancy crackers, a pie, two quarts of coffee, one gill of brandy and a bottle of beer\". [ 8 ]",
+    "byline": "redbell",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://en.wikipedia.org/wiki/Leatherman_(vagabond)",
+    "language": "en"
+  },
+  {
+    "id": 45298793,
+    "title": "iTerm2 Web Browser",
+    "summary": "iTerm2 includes built-in web browsing capabilities. Web browser sessions fit into iTerm2's existing window > tab > split pane hierarchy just like terminal sessions, allowing you to browse the web alongside your terminal work. Note for Enterprise Users: Administrators can block the browser plugin by restricting bundle ID com.googlecode.iterm2.iTermBrowserPlugin . If you prefer not to use browser features, you can completely hide them by setting Settings > Advanced > Enable browser-style profiles to No . The browser is built on WKWebView and identifies as Safari to ensure compatibility with most websites. This feature exists because:\n- Many iTerm2 features translate well to web browsing\n- It provides a unified terminal and browser experience\n- A former colleague suggested this idea in 2014 and I haven't been able to stop thinking about it.\n- I am maybe having a midlife crisis and this is cheaper than a sports car.",
+    "byline": "danielfalbo",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://iterm2.com/documentation-web.html",
+    "language": "en"
+  },
+  {
+    "id": 45296638,
+    "title": "David Lynch LA House",
+    "summary": "David Lynch's LA estate is for sale at $15m, and the listing pictures offer a glimpse into the late filmmaker's aesthetic and creative universe When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . David Lynch , the visionary American filmmaker behind Twin Peaks, Blue Velvet and Mulholland Dr, passed away this January , yet his creative universe endures in objects, spaces and ideas. Among the most striking of these relics is his larger-than-life, meticulously designed Hollywood Hills home; a cinematic setting in its own right. Perched on a sweeping 2.3-acre hillside, David Lynch’s private compound, which is now listed for $15 million by Marc Silver of The Agency, unfolds like one of his own intricately plotted storylines. A showcase of Mid-Century modern architecture , the estate was conceived with the same care and cinematic precision that defined his work. ",
+    "byline": "ewf",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale",
+    "language": "en"
+  },
+  {
+    "id": 45298489,
+    "title": "Count Folke Bernadotte: Sweden's Servant of Peace (2010)",
+    "summary": "",
+    "byline": "apollinaire",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace",
+    "language": "en"
+  },
+  {
+    "id": 45256575,
+    "title": "The Sagrada Família takes its final shape",
+    "summary": "The Sagrada Família is an immense, unfinished church in Barcelona, begun in 1882 on what was once outlying farmland and is now the city’s center. When I last visited the building, in July, it was nine inches away from being the tallest in the city. Less than two weeks later, when a ring beam to support the base of a cross was added to its biggest tower, dedicated to Jesus, the church surpassed the city’s two highest skyscrapers, both of which stand at five hundred and five feet tall. The sandstone basilica will reach its full height, however, only once the cross—which is fifty-five feet tall and made of fluted steel—is installed atop the tower, later this month. This addition will also make it the tallest church in the world. But Antoni Gaudí, the Catalan architect who spent forty-three years working on the Sagrada Família, did not think that his work should compete with God’s, so the basilica will remain a few feet lower than the iconic peak of Montjuïc. Gaudí’s structure is a head-spinning mixture of morphing geometrical forms, many inspired by nature. Its conical Art Nouveau pinnacles have the lumpy beauty of sandcastles. Building such an unusual church has been a famously slow project, even in a country where, to American eyes, many things move without haste. “ Això dura més que les obres de la Sagrada Família ”—“This is taking longer than building the Sagrada Família”—is a Catalan phrase one hears on the streets of Barcelona. Gaudí was confident that his vision would one day be fulfilled. “Providence will provide,” he assured a student. The Sagrada Família was founded as an expiatory church, meaning that it would be financed by prayerful donations from people atoning for their sins. Pretty quickly, this pay-to-pray arrangement gave way to a less ecclesiastical approach. In 1915, the Sagrada Família started charging a visitor’s fee—currently twenty-six euros. It is now the largest tourist attraction on the Iberian Peninsula, drawing more people than the Museo del Prado, in Madrid. Last year, nearly five million visitors came to see the basilica’s dizzyingly decorated interior; another nineteen million milled around outside, probably because they could not get tickets, and gazed at its equally ornate façade, with its Byzantine-looking tiling, windows shaped like honeycomb cells, and clumps of multicolored ceramic grapes. Last year, the church took in almost a hundred and thirty-four million euros. Buoyed by a tourism boom that began with the Barcelona Olympics, in 1992, and paused only for the COVID -19 pandemic, the site may be one of the only large construction projects in the world which pays for itself. In recent years, the Sagrada Família has collected far more money than it has spent. Gaudí’s original plan called for a church with eighteen towers. In addition to the Jesus tower, another would be dedicated to Mary, with bluish granite ornaments meant to evoke her iconic cloak; there would also be spires for each of the four Evangelists and the twelve apostles. The towers would be held up by columns that soared upward through the church’s nave. Starting from polygonal bases, the columns would become cylindrical as they rose, curving gracefully, like trees bent by the wind, before splitting into branches and ending in jagged clumps of leaves at the vault. By 1977, just eight of the apostles’ towers had been built, along with parts of the main structure, but the church still had no roof or columns, and the floor was dirt. For a time, construction seemed to slow down further. In 1984, National Geographic noted that there were “few workers remaining on a job that could take another century.”",
+    "byline": "pseudolus",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+    "language": "en"
+  },
+  {
+    "id": 45294440,
+    "title": "Apple: SSH and FileVault",
+    "summary": "apple_ssh_and_filevault — SSH and FileVault When FileVault is enabled, the data volume is locked and\n    unavailable during and after booting, until an account has been\n    authenticated using a password. The macOS version of OpenSSH stores all of\n    its configuration files, both system-wide and per-account, in the data\n    volume. Therefore, the usually configured authentication methods and shell\n    access are not available during this time. However, when Remote Login is\n    enabled, it is possible to perform password authentication using SSH even in\n    this situation. This can be used to unlock the data volume remotely over the\n    network. However, it does not immediately permit an SSH session. Instead,\n    once the data volume has been unlocked using this method, macOS will\n    disconnect SSH briefly while it completes mounting the data volume and\n    starting the remaining services dependent on it. Thereafter, SSH (and other\n    enabled services) are fully available. The capability to unlock the data volume over SSH appeared in\n    macOS 26 Tahoe. sshd(8)",
+    "byline": "ingve",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
+    "language": "en"
+  }
+]

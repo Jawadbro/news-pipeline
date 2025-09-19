@@ -1,0 +1,1398 @@
+[
+  {
+    "id": 45295898,
+    "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
+    "summary": "This tool is guaranteed to help with that! This is a tool that takes any link and makes it look malicious. It works on the idea of a redirect .\n                        Much like https://tinyurl.com/ for example.\n                        Where tinyurl makes an url shorter, this site makes it look malicious. Place any link in the below input, press the button and get back a fishy(phishy, heh...get, it?)\n                        looking link.\n                        The fishy link doesn't actually do anything, it will just redirect you to the original link you\n                        provided.",
+    "byline": "jordigh",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://phishyurl.com/",
+    "language": "en",
+    "entities": [
+      {
+        "text": "fishy(phishy",
+        "label": "NORP",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "technology",
+        "score": 0.48723363876342773
+      },
+      {
+        "label": "design",
+        "score": 0.2545332908630371
+      },
+      {
+        "label": "health",
+        "score": 0.057476822286844254
+      },
+      {
+        "label": "culture",
+        "score": 0.048181742429733276
+      },
+      {
+        "label": "science",
+        "score": 0.04284357279539108
+      },
+      {
+        "label": "finance",
+        "score": 0.031720347702503204
+      },
+      {
+        "label": "education",
+        "score": 0.031042011454701424
+      },
+      {
+        "label": "sports",
+        "score": 0.02726060338318348
+      },
+      {
+        "label": "politics",
+        "score": 0.01970801129937172
+      }
+    ],
+    "content_type": [
+      {
+        "label": "tutorial",
+        "score": 0.4237034022808075
+      },
+      {
+        "label": "opinion",
+        "score": 0.27393919229507446
+      },
+      {
+        "label": "news",
+        "score": 0.15530970692634583
+      },
+      {
+        "label": "blog",
+        "score": 0.10004030913114548
+      },
+      {
+        "label": "press release",
+        "score": 0.04700735583901405
+      }
+    ],
+    "word_count": 98,
+    "source_score": 0.8
+  },
+  {
+    "id": 45253926,
+    "title": "The Ruliology of Lambdas",
+    "summary": " Click any diagram to get Wolfram Language code to reproduce it. It’s a story of pure, abstract computation. In fact, historically, one of the very first . But even though it’s something I for one have used in practice for nearly half a century, it’s not something that in all my years of exploring simple computational systems and ruliology I’ve ever specifically studied. And, yes, it involves some fiddly technical details. But it’ll turn out that lambdas—like so many systems I’ve explored—have a rich ruliology, made particularly significant by their connection to practical computing. In Wolfram Language it’s the Function function. Back when Alonzo Church first discussed it in the 1930s he called it λ (lambda). The idea is to have something that serves as a “ pure function ”—which can be applied to an argument to give a value. For example, in the Wolfram Language one might have: ",
+    "byline": "marvinborner",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/",
+    "language": "en",
+    "entities": [
+      {
+        "text": "Wolfram Language",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "nearly half a century",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "all my years",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Function",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Alonzo Church",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "the 1930s",
+        "label": "DATE",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "technology",
+        "score": 0.4199928939342499
+      },
+      {
+        "label": "design",
+        "score": 0.17381338775157928
+      },
+      {
+        "label": "culture",
+        "score": 0.13139033317565918
+      },
+      {
+        "label": "science",
+        "score": 0.08191999793052673
+      },
+      {
+        "label": "health",
+        "score": 0.05297689512372017
+      },
+      {
+        "label": "education",
+        "score": 0.04359035566449165
+      },
+      {
+        "label": "finance",
+        "score": 0.0378255620598793
+      },
+      {
+        "label": "sports",
+        "score": 0.03252677991986275
+      },
+      {
+        "label": "politics",
+        "score": 0.02596381865441799
+      }
+    ],
+    "content_type": [
+      {
+        "label": "news",
+        "score": 0.38547754287719727
+      },
+      {
+        "label": "opinion",
+        "score": 0.23052546381950378
+      },
+      {
+        "label": "tutorial",
+        "score": 0.17210403084754944
+      },
+      {
+        "label": "blog",
+        "score": 0.16378168761730194
+      },
+      {
+        "label": "press release",
+        "score": 0.04811124503612518
+      }
+    ],
+    "word_count": 153,
+    "source_score": 0.8
+  },
+  {
+    "id": 45259471,
+    "title": "Rules for creating good-looking user interfaces, from a developer",
+    "summary": "Creating good-looking user interfaces has always been a struggle for me. If you’re in the same camp, this might help. I recently redesigned Lighthouse , and during that process built a system that helped me create much better designs than I ever did before. This system is about achieving the best possible design with the least amount of effort. There’s no need to know about the psychological impact of colors, which fonts are best for which purpose, golden ratios, etc. This is expert-level design knowledge that is just distracting if you’re not on that level. The key is to focus on the few important aspects, and not try to optimize every tiny detail. For a long time I could tell when a design was good and that my own designs were bad, but I could never specify why my designs were bad. Now I can summarize it in two words: alignment and consistency . Let me show you.",
+    "byline": "domysee",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://weberdominik.com/blog/rules-user-interfaces/",
+    "language": "en",
+    "entities": [
+      {
+        "text": "Creating",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Lighthouse",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "design",
+        "score": 0.5375955700874329
+      },
+      {
+        "label": "technology",
+        "score": 0.10694759339094162
+      },
+      {
+        "label": "education",
+        "score": 0.10451661795377731
+      },
+      {
+        "label": "culture",
+        "score": 0.07528611272573471
+      },
+      {
+        "label": "science",
+        "score": 0.05353546887636185
+      },
+      {
+        "label": "health",
+        "score": 0.04575205221772194
+      },
+      {
+        "label": "sports",
+        "score": 0.03171449527144432
+      },
+      {
+        "label": "politics",
+        "score": 0.02542155049741268
+      },
+      {
+        "label": "finance",
+        "score": 0.01923050545156002
+      }
+    ],
+    "content_type": [
+      {
+        "label": "news",
+        "score": 0.5288370847702026
+      },
+      {
+        "label": "tutorial",
+        "score": 0.1913190335035324
+      },
+      {
+        "label": "opinion",
+        "score": 0.14758005738258362
+      },
+      {
+        "label": "blog",
+        "score": 0.0771116390824318
+      },
+      {
+        "label": "press release",
+        "score": 0.05515206232666969
+      }
+    ],
+    "word_count": 167,
+    "source_score": 0.8
+  },
+  {
+    "id": 45248356,
+    "title": "Leatherman (vagabond)",
+    "summary": "The Leatherman ( c. 1839–1889) was a vagabond famous for his handmade leather suit of clothes who traveled through the northeastern United States on a regular circuit between the Connecticut River and the Hudson River from roughly 1857 to 1889. Of unknown origin, he was thought to be French-Canadian because of his fluency in the French language , his \"broken English\", and the French-language prayer book found on his person after his death. His identity remains unknown and controversial. He walked a repeating 365-mile (587 km) route year after year, which took him through certain towns in western Connecticut and eastern New York , returning to each town roughly every 34 days. [ 1 ] Living in rock shelters and \"leatherman caves\", as they are now locally known, [ 2 ] the Leatherman stopped at towns along his 365-mile (587 km) loop about every five weeks for food and supplies. [ 3 ] He was dubbed the \"Leatherman\" as his adornment of hat, scarf, clothes, and shoes were handmade from leather . An early article in the Burlington Free Press dated April 7, 1870, refers to him as the \"Leather-Clad Man\". It also states that he spoke rarely and when addressed would simply speak in monosyllables . According to contemporary rumors, he hailed from Picardy, France . [ 4 ] Fluent in French , he communicated mostly with grunts and gestures, rarely using his broken English. When asked about his background, he would abruptly end the conversation. [ 5 ] [ 6 ] Upon his death, a French prayer book was found among his possessions. [ 6 ] He declined meat on Fridays, giving rise to speculation that he was Roman Catholic . [ 7 ] It is unknown how he earned money. One store kept a record of an order: \"one loaf of bread, a can of sardines, one-pound of fancy crackers, a pie, two quarts of coffee, one gill of brandy and a bottle of beer\". [ 8 ]",
+    "byline": "redbell",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://en.wikipedia.org/wiki/Leatherman_(vagabond)",
+    "language": "en",
+    "entities": [
+      {
+        "text": "Leatherman",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "c. 1839–1889",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "United States",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "the Connecticut River",
+        "label": "LOC",
+        "kb_id": null
+      },
+      {
+        "text": "the Hudson River",
+        "label": "LOC",
+        "kb_id": null
+      },
+      {
+        "text": "roughly 1857 to 1889",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "French-Canadian",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "kb_id": null
+      },
+      {
+        "text": "French",
+        "label": "LANGUAGE",
+        "kb_id": null
+      },
+      {
+        "text": "365-mile",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "587 km",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "year",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Connecticut",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "New York",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "roughly every 34 days",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Leatherman",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "365-mile",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "587 km",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "about every five weeks",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Leatherman",
+        "label": "WORK_OF_ART",
+        "kb_id": null
+      },
+      {
+        "text": "the Burlington Free Press",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "April 7, 1870",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Leather-Clad Man",
+        "label": "WORK_OF_ART",
+        "kb_id": null
+      },
+      {
+        "text": "Picardy",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "France",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "4 ] Fluent",
+        "label": "MONEY",
+        "kb_id": null
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "English",
+        "label": "LANGUAGE",
+        "kb_id": null
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "French",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Fridays",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Roman Catholic",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "7",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "One",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "one-pound",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "8",
+        "label": "CARDINAL",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "culture",
+        "score": 0.3281717002391815
+      },
+      {
+        "label": "design",
+        "score": 0.1117209643125534
+      },
+      {
+        "label": "health",
+        "score": 0.10360819101333618
+      },
+      {
+        "label": "education",
+        "score": 0.09098884463310242
+      },
+      {
+        "label": "finance",
+        "score": 0.08599976450204849
+      },
+      {
+        "label": "technology",
+        "score": 0.08501330763101578
+      },
+      {
+        "label": "politics",
+        "score": 0.0818241685628891
+      },
+      {
+        "label": "sports",
+        "score": 0.0637609139084816
+      },
+      {
+        "label": "science",
+        "score": 0.04891214892268181
+      }
+    ],
+    "content_type": [
+      {
+        "label": "opinion",
+        "score": 0.41967618465423584
+      },
+      {
+        "label": "news",
+        "score": 0.20218342542648315
+      },
+      {
+        "label": "blog",
+        "score": 0.15962591767311096
+      },
+      {
+        "label": "tutorial",
+        "score": 0.1302960067987442
+      },
+      {
+        "label": "press release",
+        "score": 0.08821849524974823
+      }
+    ],
+    "word_count": 333,
+    "source_score": 0.8
+  },
+  {
+    "id": 45298793,
+    "title": "iTerm2 Web Browser",
+    "summary": "iTerm2 includes built-in web browsing capabilities. Web browser sessions fit into iTerm2's existing window > tab > split pane hierarchy just like terminal sessions, allowing you to browse the web alongside your terminal work. Note for Enterprise Users: Administrators can block the browser plugin by restricting bundle ID com.googlecode.iterm2.iTermBrowserPlugin . If you prefer not to use browser features, you can completely hide them by setting Settings > Advanced > Enable browser-style profiles to No . The browser is built on WKWebView and identifies as Safari to ensure compatibility with most websites. This feature exists because:\n- Many iTerm2 features translate well to web browsing\n- It provides a unified terminal and browser experience\n- A former colleague suggested this idea in 2014 and I haven't been able to stop thinking about it.\n- I am maybe having a midlife crisis and this is cheaper than a sports car.",
+    "byline": "danielfalbo",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://iterm2.com/documentation-web.html",
+    "language": "en",
+    "entities": [
+      {
+        "text": "iTerm2 Web Browser iTerm2",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "iTerm2",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Safari",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "iTerm2",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "2014",
+        "label": "DATE",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "technology",
+        "score": 0.5440957546234131
+      },
+      {
+        "label": "sports",
+        "score": 0.14023691415786743
+      },
+      {
+        "label": "design",
+        "score": 0.1104634553194046
+      },
+      {
+        "label": "culture",
+        "score": 0.10896680504083633
+      },
+      {
+        "label": "health",
+        "score": 0.03028702922165394
+      },
+      {
+        "label": "finance",
+        "score": 0.019342977553606033
+      },
+      {
+        "label": "science",
+        "score": 0.01848982274532318
+      },
+      {
+        "label": "education",
+        "score": 0.017309697344899178
+      },
+      {
+        "label": "politics",
+        "score": 0.010807535611093044
+      }
+    ],
+    "content_type": [
+      {
+        "label": "news",
+        "score": 0.4551108181476593
+      },
+      {
+        "label": "opinion",
+        "score": 0.40235844254493713
+      },
+      {
+        "label": "blog",
+        "score": 0.0534338541328907
+      },
+      {
+        "label": "tutorial",
+        "score": 0.04892776161432266
+      },
+      {
+        "label": "press release",
+        "score": 0.0401691310107708
+      }
+    ],
+    "word_count": 151,
+    "source_score": 0.8
+  },
+  {
+    "id": 45296638,
+    "title": "David Lynch LA House",
+    "summary": "David Lynch's LA estate is for sale at $15m, and the listing pictures offer a glimpse into the late filmmaker's aesthetic and creative universe When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works . David Lynch , the visionary American filmmaker behind Twin Peaks, Blue Velvet and Mulholland Dr, passed away this January , yet his creative universe endures in objects, spaces and ideas. Among the most striking of these relics is his larger-than-life, meticulously designed Hollywood Hills home; a cinematic setting in its own right. Perched on a sweeping 2.3-acre hillside, David Lynch’s private compound, which is now listed for $15 million by Marc Silver of The Agency, unfolds like one of his own intricately plotted storylines. A showcase of Mid-Century modern architecture , the estate was conceived with the same care and cinematic precision that defined his work. ",
+    "byline": "ewf",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale",
+    "language": "en",
+    "entities": [
+      {
+        "text": "David Lynch",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "LA",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "David Lynch's",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "LA",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "15",
+        "label": "MONEY",
+        "kb_id": null
+      },
+      {
+        "text": "David Lynch",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "Twin Peaks",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Blue Velvet",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Mulholland Dr",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "this January",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Hollywood Hills",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "2.3-acre",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "David Lynch’s",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "$15 million",
+        "label": "MONEY",
+        "kb_id": null
+      },
+      {
+        "text": "Marc Silver",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Agency",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Mid-Century",
+        "label": "ORG",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "design",
+        "score": 0.5592101812362671
+      },
+      {
+        "label": "culture",
+        "score": 0.18813101947307587
+      },
+      {
+        "label": "finance",
+        "score": 0.13700000941753387
+      },
+      {
+        "label": "health",
+        "score": 0.03520810604095459
+      },
+      {
+        "label": "technology",
+        "score": 0.0240665003657341
+      },
+      {
+        "label": "education",
+        "score": 0.019399499520659447
+      },
+      {
+        "label": "sports",
+        "score": 0.014191489666700363
+      },
+      {
+        "label": "politics",
+        "score": 0.011490590870380402
+      },
+      {
+        "label": "science",
+        "score": 0.011302637867629528
+      }
+    ],
+    "content_type": [
+      {
+        "label": "news",
+        "score": 0.4527188539505005
+      },
+      {
+        "label": "tutorial",
+        "score": 0.14984947443008423
+      },
+      {
+        "label": "blog",
+        "score": 0.1474871039390564
+      },
+      {
+        "label": "opinion",
+        "score": 0.1348707526922226
+      },
+      {
+        "label": "press release",
+        "score": 0.1150737851858139
+      }
+    ],
+    "word_count": 153,
+    "source_score": 0.8
+  },
+  {
+    "id": 45298489,
+    "title": "Count Folke Bernadotte: Sweden's Servant of Peace (2010)",
+    "summary": "",
+    "byline": "apollinaire",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.historytoday.com/archive/feature/count-folke-bernadotte-swedens-servant-peace",
+    "language": "en",
+    "entities": [
+      {
+        "text": "Folke Bernadotte",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Sweden",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "Servant of Peace",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "2010",
+        "label": "DATE",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "culture",
+        "score": 0.3686958849430084
+      },
+      {
+        "label": "politics",
+        "score": 0.195929616689682
+      },
+      {
+        "label": "design",
+        "score": 0.13053885102272034
+      },
+      {
+        "label": "health",
+        "score": 0.06863735616207123
+      },
+      {
+        "label": "education",
+        "score": 0.06336864829063416
+      },
+      {
+        "label": "finance",
+        "score": 0.056007396429777145
+      },
+      {
+        "label": "technology",
+        "score": 0.046754077076911926
+      },
+      {
+        "label": "science",
+        "score": 0.03508821502327919
+      },
+      {
+        "label": "sports",
+        "score": 0.0349799282848835
+      }
+    ],
+    "content_type": [
+      {
+        "label": "news",
+        "score": 0.4011615216732025
+      },
+      {
+        "label": "blog",
+        "score": 0.23859857022762299
+      },
+      {
+        "label": "opinion",
+        "score": 0.162211075425148
+      },
+      {
+        "label": "tutorial",
+        "score": 0.1431441307067871
+      },
+      {
+        "label": "press release",
+        "score": 0.054884687066078186
+      }
+    ],
+    "word_count": 8,
+    "source_score": 0.8
+  },
+  {
+    "id": 45256575,
+    "title": "The Sagrada Família takes its final shape",
+    "summary": "The Sagrada Família is an immense, unfinished church in Barcelona, begun in 1882 on what was once outlying farmland and is now the city’s center. When I last visited the building, in July, it was nine inches away from being the tallest in the city. Less than two weeks later, when a ring beam to support the base of a cross was added to its biggest tower, dedicated to Jesus, the church surpassed the city’s two highest skyscrapers, both of which stand at five hundred and five feet tall. The sandstone basilica will reach its full height, however, only once the cross—which is fifty-five feet tall and made of fluted steel—is installed atop the tower, later this month. This addition will also make it the tallest church in the world. But Antoni Gaudí, the Catalan architect who spent forty-three years working on the Sagrada Família, did not think that his work should compete with God’s, so the basilica will remain a few feet lower than the iconic peak of Montjuïc. Gaudí’s structure is a head-spinning mixture of morphing geometrical forms, many inspired by nature. Its conical Art Nouveau pinnacles have the lumpy beauty of sandcastles. Building such an unusual church has been a famously slow project, even in a country where, to American eyes, many things move without haste. “ Això dura més que les obres de la Sagrada Família ”—“This is taking longer than building the Sagrada Família”—is a Catalan phrase one hears on the streets of Barcelona. Gaudí was confident that his vision would one day be fulfilled. “Providence will provide,” he assured a student. The Sagrada Família was founded as an expiatory church, meaning that it would be financed by prayerful donations from people atoning for their sins. Pretty quickly, this pay-to-pray arrangement gave way to a less ecclesiastical approach. In 1915, the Sagrada Família started charging a visitor’s fee—currently twenty-six euros. It is now the largest tourist attraction on the Iberian Peninsula, drawing more people than the Museo del Prado, in Madrid. Last year, nearly five million visitors came to see the basilica’s dizzyingly decorated interior; another nineteen million milled around outside, probably because they could not get tickets, and gazed at its equally ornate façade, with its Byzantine-looking tiling, windows shaped like honeycomb cells, and clumps of multicolored ceramic grapes. Last year, the church took in almost a hundred and thirty-four million euros. Buoyed by a tourism boom that began with the Barcelona Olympics, in 1992, and paused only for the COVID -19 pandemic, the site may be one of the only large construction projects in the world which pays for itself. In recent years, the Sagrada Família has collected far more money than it has spent. Gaudí’s original plan called for a church with eighteen towers. In addition to the Jesus tower, another would be dedicated to Mary, with bluish granite ornaments meant to evoke her iconic cloak; there would also be spires for each of the four Evangelists and the twelve apostles. The towers would be held up by columns that soared upward through the church’s nave. Starting from polygonal bases, the columns would become cylindrical as they rose, curving gracefully, like trees bent by the wind, before splitting into branches and ending in jagged clumps of leaves at the vault. By 1977, just eight of the apostles’ towers had been built, along with parts of the main structure, but the church still had no roof or columns, and the floor was dirt. For a time, construction seemed to slow down further. In 1984, National Geographic noted that there were “few workers remaining on a job that could take another century.”",
+    "byline": "pseudolus",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+    "language": "en",
+    "entities": [
+      {
+        "text": "The Sagrada Família",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Barcelona",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "1882",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "July",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "nine inches",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "Less than two weeks later",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Jesus",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "five hundred and five",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "fifty-five feet",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "later this month",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Antoni Gaudí",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Catalan",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "forty-three years",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "a few feet",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "Montjuïc",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Art Nouveau",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "American",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "més que",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Sagrada",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Catalan",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Barcelona",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "one day",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "1915",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "Sagrada Família",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "twenty-six",
+        "label": "QUANTITY",
+        "kb_id": null
+      },
+      {
+        "text": "the Iberian Peninsula",
+        "label": "LOC",
+        "kb_id": null
+      },
+      {
+        "text": "Madrid",
+        "label": "GPE",
+        "kb_id": null
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "nearly five million",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "nineteen million",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Byzantine",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "Last year",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "almost a hundred and thirty-four million",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "the Barcelona Olympics",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "1992",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "recent years",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "the Sagrada Família",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "eighteen",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Jesus",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "Mary",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "Evangelists",
+        "label": "NORP",
+        "kb_id": null
+      },
+      {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "1977",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "just eight",
+        "label": "CARDINAL",
+        "kb_id": null
+      },
+      {
+        "text": "1984",
+        "label": "DATE",
+        "kb_id": null
+      },
+      {
+        "text": "National Geographic",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "another century",
+        "label": "DATE",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "design",
+        "score": 0.24470238387584686
+      },
+      {
+        "label": "finance",
+        "score": 0.20493926107883453
+      },
+      {
+        "label": "culture",
+        "score": 0.15432119369506836
+      },
+      {
+        "label": "sports",
+        "score": 0.1130535900592804
+      },
+      {
+        "label": "health",
+        "score": 0.08208935707807541
+      },
+      {
+        "label": "education",
+        "score": 0.061005156487226486
+      },
+      {
+        "label": "technology",
+        "score": 0.058576539158821106
+      },
+      {
+        "label": "politics",
+        "score": 0.04349815845489502
+      },
+      {
+        "label": "science",
+        "score": 0.03781438618898392
+      }
+    ],
+    "content_type": [
+      {
+        "label": "opinion",
+        "score": 0.3783743679523468
+      },
+      {
+        "label": "news",
+        "score": 0.217971533536911
+      },
+      {
+        "label": "tutorial",
+        "score": 0.17438741028308868
+      },
+      {
+        "label": "blog",
+        "score": 0.13495373725891113
+      },
+      {
+        "label": "press release",
+        "score": 0.09431289881467819
+      }
+    ],
+    "word_count": 615,
+    "source_score": 0.8
+  },
+  {
+    "id": 45294440,
+    "title": "Apple: SSH and FileVault",
+    "summary": "apple_ssh_and_filevault — SSH and FileVault When FileVault is enabled, the data volume is locked and\n    unavailable during and after booting, until an account has been\n    authenticated using a password. The macOS version of OpenSSH stores all of\n    its configuration files, both system-wide and per-account, in the data\n    volume. Therefore, the usually configured authentication methods and shell\n    access are not available during this time. However, when Remote Login is\n    enabled, it is possible to perform password authentication using SSH even in\n    this situation. This can be used to unlock the data volume remotely over the\n    network. However, it does not immediately permit an SSH session. Instead,\n    once the data volume has been unlocked using this method, macOS will\n    disconnect SSH briefly while it completes mounting the data volume and\n    starting the remaining services dependent on it. Thereafter, SSH (and other\n    enabled services) are fully available. The capability to unlock the data volume over SSH appeared in\n    macOS 26 Tahoe. sshd(8)",
+    "byline": "ingve",
+    "source": "HackerNews",
+    "publishedAt": null,
+    "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
+    "language": "en",
+    "entities": [
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "FileVault",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "FileVault",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "FileVault",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "Remote Login",
+        "label": "PERSON",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      },
+      {
+        "text": "SSH",
+        "label": "ORG",
+        "kb_id": null
+      }
+    ],
+    "topics": [
+      {
+        "label": "technology",
+        "score": 0.3555077314376831
+      },
+      {
+        "label": "health",
+        "score": 0.17184147238731384
+      },
+      {
+        "label": "culture",
+        "score": 0.14305970072746277
+      },
+      {
+        "label": "design",
+        "score": 0.09163196384906769
+      },
+      {
+        "label": "science",
+        "score": 0.0598544217646122
+      },
+      {
+        "label": "politics",
+        "score": 0.0567486546933651
+      },
+      {
+        "label": "education",
+        "score": 0.04365828260779381
+      },
+      {
+        "label": "sports",
+        "score": 0.039549343287944794
+      },
+      {
+        "label": "finance",
+        "score": 0.03814846649765968
+      }
+    ],
+    "content_type": [
+      {
+        "label": "blog",
+        "score": 0.2759271264076233
+      },
+      {
+        "label": "news",
+        "score": 0.2609219551086426
+      },
+      {
+        "label": "opinion",
+        "score": 0.18197284638881683
+      },
+      {
+        "label": "tutorial",
+        "score": 0.1459043323993683
+      },
+      {
+        "label": "press release",
+        "score": 0.13527370989322662
+      }
+    ],
+    "word_count": 163,
+    "source_score": 0.8
+  }
+]
