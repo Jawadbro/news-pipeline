@@ -1,58 +1,89 @@
+"""
+Ingest Pipeline for Hacker News Stories.
+
+This module fetches top stories from Hacker News,
+normalizes them, and saves to a JSON file.
+Part of the HUD LLM pipeline (ingestion stage).
+"""
+
 import json
 from datetime import datetime, timezone
 from pathlib import Path
-
 import requests
+from typing import List, Dict
+from pydantic import BaseModel
 
 
-# --- Normalized schema template ---
-def normalize_hn_item(item: dict) -> dict:
-    """Normalize a HackerNews item to our standard schema."""
-    item_id = item.get("id", "")
+class NewsItem(BaseModel):
+    """Normalized news item schema for Hacker News."""
+
+    title: str
+    summary: str
+    byline: str
+    source: str
+    published_at: str
+    url: str
+    id: int
+
+
+def normalize_hn_item(item: Dict) -> Dict:
+    """Normalize a Hacker News item into a standardized schema."""
     return {
-        "title": item.get("title"),
-        "summary": item.get("text") or "",
+        "title": item.get("title", "No title"),
+        "summary": item.get("text", ""),
         "byline": item.get("by", "unknown"),
         "source": "HackerNews",
-        "publishedAt": datetime.fromtimestamp(
+        "published_at": datetime.fromtimestamp(
             item.get("time", 0), tz=timezone.utc
         ).isoformat(),
-        "url": (
-            item.get("url") or f"https://news.ycombinator.com/item?id={item_id}"
-        ),
-        "id": item_id,
+        "url": item.get("url")
+        or f"https://news.ycombinator.com/item?id={item.get('id', 0)}",
+        "id": item.get("id", 0),
     }
 
 
-# --- Fetch Top Stories ---
-def fetch_hn_top(n=10):
-    """Fetch top N stories from HackerNews."""
-    response = requests.get(
-        "https://hacker-news.firebaseio.com/v0/topstories.json"
-    )
-    top_ids = response.json()
-    stories = []
-    for story_id in top_ids[:n]:
-        item_response = requests.get(
-            f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+def fetch_hn_top(n: int = 10) -> List[Dict]:
+    """Fetch the top N stories from Hacker News."""
+    try:
+        response = requests.get(
+            "https://hacker-news.firebaseio.com/v0/topstories.json", timeout=10
         )
-        item = item_response.json()
-        stories.append(normalize_hn_item(item))
-    return stories
+        response.raise_for_status()
+        top_ids = response.json()
+        stories = []
+        for story_id in top_ids[:n]:
+            item_response = requests.get(
+                f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json",
+                timeout=10,
+            )
+            item_response.raise_for_status()
+            item = item_response.json()
+            stories.append(normalize_hn_item(item))
+        return stories
+    except requests.RequestException as e:
+        print(f"Error fetching HN stories: {e}")
+        return []
 
 
-# --- Save to file ---
-def save_to_json(data, filename="hn_stories.json"):
-    """Save data to JSON file in the ingested directory."""
+def save_to_json(data: List[Dict], filename: str = "hn_stories.json") -> None:
+    """Save normalized stories to a JSON file."""
     output_dir = Path("data/ingested")
     output_dir.mkdir(parents=True, exist_ok=True)
     filepath = output_dir / filename
 
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ Saved {len(data)} stories to {filepath}")
+    try:
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"✅ Saved {len(data)} stories to {filepath}")
+    except IOError as e:
+        print(f"Error saving to JSON: {e}")
+
+
+def main() -> None:
+    """Entry point for ingestion."""
+    stories = fetch_hn_top(10)
+    save_to_json(stories)
 
 
 if __name__ == "__main__":
-    stories = fetch_hn_top(10)  # Fetch 10 top stories
-    save_to_json(stories)
+    main()
