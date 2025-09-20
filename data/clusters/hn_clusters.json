@@ -1,0 +1,128 @@
+[
+  {
+    "clusterId": "c-000001",
+    "members": [
+      "45295898"
+    ],
+    "representativeId": "45295898"
+  },
+  {
+    "clusterId": "c-000002",
+    "members": [
+      "45253926"
+    ],
+    "representativeId": "45253926"
+  },
+  {
+    "clusterId": "c-000003",
+    "members": [
+      "45259471"
+    ],
+    "representativeId": "45259471"
+  },
+  {
+    "clusterId": "c-000004",
+    "members": [
+      "45248356"
+    ],
+    "representativeId": "45248356"
+  },
+  {
+    "clusterId": "c-000005",
+    "members": [
+      "45298793"
+    ],
+    "representativeId": "45298793"
+  },
+  {
+    "clusterId": "c-000006",
+    "members": [
+      "45296638"
+    ],
+    "representativeId": "45296638"
+  },
+  {
+    "clusterId": "c-000007",
+    "members": [
+      "45298489"
+    ],
+    "representativeId": "45298489"
+  },
+  {
+    "clusterId": "c-000008",
+    "members": [
+      "45256575"
+    ],
+    "representativeId": "45256575"
+  },
+  {
+    "clusterId": "c-000009",
+    "members": [
+      "45294440"
+    ],
+    "representativeId": "45294440"
+  },
+  {
+    "clusterId": "c-000010",
+    "members": [
+      45295898
+    ],
+    "representativeId": 45295898
+  },
+  {
+    "clusterId": "c-000011",
+    "members": [
+      45253926
+    ],
+    "representativeId": 45253926
+  },
+  {
+    "clusterId": "c-000012",
+    "members": [
+      45259471
+    ],
+    "representativeId": 45259471
+  },
+  {
+    "clusterId": "c-000013",
+    "members": [
+      45248356
+    ],
+    "representativeId": 45248356
+  },
+  {
+    "clusterId": "c-000014",
+    "members": [
+      45298793
+    ],
+    "representativeId": 45298793
+  },
+  {
+    "clusterId": "c-000015",
+    "members": [
+      45296638
+    ],
+    "representativeId": 45296638
+  },
+  {
+    "clusterId": "c-000016",
+    "members": [
+      45298489
+    ],
+    "representativeId": 45298489
+  },
+  {
+    "clusterId": "c-000017",
+    "members": [
+      45256575
+    ],
+    "representativeId": 45256575
+  },
+  {
+    "clusterId": "c-000018",
+    "members": [
+      45294440
+    ],
+    "representativeId": 45294440
+  }
+]
